@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a73ee020-bae8-4c1b-83bd-31f05118ab19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn_Java_LanChat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/ChatGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/ClientServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/MainGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/DataFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/Peer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/Slightly_Smiling_Face_Emoji.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/connect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/crying.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/heart_eye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/sad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/scared.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/serverManager.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/servermanager64x64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/smile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/smile_big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/smile_cry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/stop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/user_chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/login/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/ServerCore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/ServerGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tags/Decode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tags/Encode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tags/Tags.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FCwRqNoE451mYbVaKNSjDeJuaZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ender\Desktop\DoAn_Java_LanChat\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a73ee020-bae8-4c1b-83bd-31f05118ab19" name="Changes" comment="" />
+      <created>1664009370414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664009370414</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
